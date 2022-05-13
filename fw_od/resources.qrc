@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/fw_od" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
